@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development ( Back-end )
 - 🌱 I’m currently learning php , js
 - 📫 How to reach me email -> xbimamaliyevich@gmail.com
-instagram https://botiraliyev.04 telegram https://t.me/Salikiyn04
+https://www.instagram.com/botiraliyev.04 https://t.me/Salikiyn04
 <!---
 imamaliyevich/imamaliyevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
