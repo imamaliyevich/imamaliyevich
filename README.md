@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imamaliyevich
 - 👀 I’m interested in Web development ( Back-end )
-- 🌱 I’m currently learning php , js
+- 🌱 I’m currently learning Frameworks , Front end (JS,html,React)
 - 📫 How to reach me email -> xbimamaliyevich@gmail.com
         inst   https://www.instagram.com/botiraliyev.04   tg   https://t.me/Salikiyn04
 <!---
