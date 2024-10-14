@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 📝 I regularly write articles on [https://t.me/WebDevelopmentUz](https://t.me/WebDevelopmentUz)
+- 📝 I regularly write articles on https://t.me/web_development_uz
 
 - 📫 How to reach me **xbimamaliyevich@gmail.com**
 
